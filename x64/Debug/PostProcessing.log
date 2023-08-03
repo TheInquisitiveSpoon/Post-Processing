@@ -1,0 +1,17 @@
+﻿  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\Blur_pp.cso
+  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\Burn_pp.cso
+  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\Distort_pp.cso
+  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\FullScreenQuad_pp.cso
+C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\GreyNoise_pp.hlsl(34,8-25): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\GreyNoise_pp.cso
+C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\Spiral_pp.hlsl(28,26-110): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\Spiral_pp.cso
+  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\TintedTexture_ps.cso
+  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\BasicTransform_vs.cso
+  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\PixelLighting_ps.cso
+  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\PixelLighting_vs.cso
+  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\Tint_pp.cso
+  compilation object save succeeded; see C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\Underwater_pp.cso
+  PostProcessing.vcxproj -> C:\_DESKTOP\UNI\3rd Year\CO3303 - Mathematics and Technologies for Games\Assignment\PostProcessing\\PostProcessing.exe
